@@ -1,0 +1,1 @@
+This repo is from the [Fetch API Explained - Working with Data & APIs in JavaScript](https://youtu.be/djCuFrLLjVk) YouTube tutorial by [codeSTACKr](https://www.youtube.com/c/codeSTACKr) [@codeSTACKr](https://github.com/codeSTACKr).
